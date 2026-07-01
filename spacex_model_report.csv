@@ -1,0 +1,8 @@
+Metric,Value
+Project,SpaceX Launch Success Prediction
+Model Type,Optimized Random Forest
+Training Accuracy,0.7857
+Mean CV Accuracy (5-fold),0.7470
+Hold-out Test Accuracy,0.9167
+ROC AUC Score,0.8991
+Weighted F1-Score,0.7868
